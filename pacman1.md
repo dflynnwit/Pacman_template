@@ -331,4 +331,4 @@ So, what is the structure of our code now for actually calling update() and rend
 Phew... yeah, it's a bit complicated, and it seems like a lot of work for now, but this will make creating more complicated games later way easier as we've decoupled lots of stuff like sensible developers!
 
 
-Next step: [PacMan 3](pacman3.md)
+Next step: [PacMan 2](pacman2.md)
